@@ -1,0 +1,41 @@
+body, html {
+  height: 100%;		
+  background-image: url("background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body{
+  background-color:#000000;
+}
+.topnav{
+	background-color: #000000;
+	overflow: hidden;
+	width: 100%;
+}
+.topnav a {
+  float: left;
+  color: #E8B40C;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a.active {
+  background-color: #FF770D;
+  color: white;
+}
+.topnav a:hover {
+  background-color: #0CE8A8;
+  color: black;
+  vertical-align: top;
+}
+h1{
+	color: #0FB40C;
+  	font-style: Gloria Hallelujah;
+  	text-align: left;
+}
+h2{
+	text-align: center;
+	vertical-align: text-top;
+}
