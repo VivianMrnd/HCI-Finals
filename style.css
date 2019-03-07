@@ -55,3 +55,18 @@ body {
   padding: 2em;
   text-align: justify;
 }
+.heading {
+  text-align: center;
+  padding-bottom: .75em;
+  color: #fff;
+}
+
+.headingDark {
+  text-align: center;
+  padding-bottom: .75em;
+  color: #222;
+}
+
+.images {
+  max-width: 100%;
+}
