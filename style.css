@@ -82,3 +82,45 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
+.contactUs {
+  font-size: 3em;
+}
+
+.fa-facebook-f {
+  color: #3b5998;
+}
+
+.fa-facebook-f:hover {
+  color: #ccc;
+}
+
+.fa-twitter {
+  color: #1da1f2;
+}
+
+.fa-twitter:hover {
+  color: #ccc;
+}
+
+.fa-instagram {
+  color: #cd486b;
+}
+
+.fa-instagram:hover {
+  color: #ccc;
+}
+
+.fa-linkedin-in {
+  color: #0077b5;
+}
+
+.fa-linkedin-in:hover {
+  color: #ccc;
+}
+
+.text {
+  color: #aaa;
+  text-align: center;
+  font-size: 0.75em;
+  padding: 2em;
+}
