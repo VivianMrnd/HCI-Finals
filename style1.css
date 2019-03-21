@@ -1,0 +1,13 @@
+/*nav.html*/
+  #section3 {
+  background: url("cat2.jpg")
+    no-repeat center center fixed;
+  display: table;
+  padding: 1em;
+  height: 100vh;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
