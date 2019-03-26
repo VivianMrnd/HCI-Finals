@@ -26,6 +26,11 @@
 .heading{
   color: #E8CD0C;
 }
+h4{
+  text-indent: 50px;
+  background-color:Tomato;
+  text-align: center;
+}
 .caption{
   text-align: center;
   font-family: 'Roboto';
